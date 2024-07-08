@@ -1,5 +1,4 @@
-## Olá! Eu sou Lawrence Duarte 👋
-Analista de Dados 📊
+## Olá! Eu sou Lawrence Duarte 📊
 🗂️ Coleta e Limpeza de Dados: Transformo dados brutos em informações utilizáveis.
 🔍 Análise de Tendências e Padrões: Identifico insights valiosos para apoiar decisões estratégicas.
 📈 Criação de Relatórios e Dashboards: Utilizo ferramentas modernas para visualizar dados de forma clara e impactante.
